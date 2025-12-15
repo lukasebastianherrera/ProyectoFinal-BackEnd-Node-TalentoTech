@@ -6,7 +6,7 @@ import authRouter  from './src/routes/authRoutes.js';
 import { authentication } from './src/middlewares/authentication.js';
 const app = express();
 
-// Configuración básica: Permitir todos los orígenes
+
 app.use(cors());
 app.use(express.json());
 
