@@ -27,7 +27,7 @@ Una API RESTful para gestión de productos con autenticación JWT, construida co
 
 2. **Instala las dependencias**
    ```bash
-   npm install
+   npm install express cors body-parser firebase dotenv jsonwebtoken
    ```
 
 3. **Configura las variables de entorno**
