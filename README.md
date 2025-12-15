@@ -21,7 +21,7 @@ Una API RESTful para gestión de productos con autenticación JWT, construida co
 
 1. **Clona el repositorio**
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/lukasebastianherrera/ProyectoFinal-BackEnd-Node-TalentoTech
    cd proyecto-final
    ```
 
